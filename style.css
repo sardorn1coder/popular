@@ -1,0 +1,63 @@
+.txt {
+    font-size: 200%;
+    color: white;
+}
+
+.img {
+    width: 50px;
+    vertical-align: middle;
+}
+
+.img1 {
+    width: 50px;
+    vertical-align: middle;
+}
+
+.box {
+    text-align: center;
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.but {
+    width: 180px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 8px;
+    border-color: red;
+    border-width: 3px;
+}
+
+.bu {
+    text-align: center;
+    padding: 15px;
+}
+
+.bo {
+    border: 5px solid black;
+    border-radius: 30px;
+    background-color: gray;
+    font-size: 15px;
+    width: 1400px;
+    margin: auto;
+}
+
+.bx {
+    background-color: rgb(200, 200, 200);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.a {
+    color: gold;
+    width: 20%;
+}
+
+.bot {
+    background-color: black;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+}
